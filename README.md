@@ -17,22 +17,21 @@
 ```bash
 $ python muthu_rajaji.py
 
-  👤  Name        : Muthu Rajaji P
-  📍  Location    : Chennai, Tamil Nadu, India
-  🎓  Degree      : B.Tech – Information Technology (Anna University, 2012)
-  📧  Email       : muthurajaji2@gmail.com
+  👤  Name      : Muthu Rajaji P
+  📍  Location  : Chennai, Tamil Nadu, India
+  🎓  Degree    : B.Tech – IT (Anna University, 2012)
+  📧  Email     : muthurajaji2@gmail.com
 
-  🛠️  Stack       : AWS · Kubernetes · Docker · Terraform
-                    Jenkins · Ansible · Python · Shell Scripting
-                    TypeScript · Maven · Git
+  🛠️  Stack     : AWS · Kubernetes · Docker · Terraform · Jenkins
+                  Ansible · Python · Shell · TypeScript · Maven · Git
 
-  📚  Learning    : AWS CDK Advanced Patterns
-                    GitOps & ArgoCD
-                    Observability with OpenTelemetry
+  📚  Learning  : AWS CDK Advanced Patterns
+                  GitOps & ArgoCD
+                  Observability with OpenTelemetry
 
-  ⚡  Fun Fact    : Automating deployments before "DevOps" was a job title 🚀
+  ⚡  Fun Fact  : Automating deploys before "DevOps" was a job title 🚀
 
-  💬  Motto       : "Automate everything. Break nothing. Ship fast. 🛠️"
+  💬  Motto     : "Automate everything. Break nothing. Ship fast. 🛠️"
 
 >>> Process finished with exit code 0
 ```
