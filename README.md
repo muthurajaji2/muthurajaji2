@@ -12,36 +12,29 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<br/>
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```python
-class MuthuRajaji:
-    def __init__(self):
-        self.name        = "Muthu Rajaji P"
-        self.location    = "Chennai, Tamil Nadu, India"
-        self.degree      = "B.Tech – Information Technology (Anna University, 2012)"
-        self.email       = "muthurajaji2@gmail.com"
+```bash
+$ python muthu_rajaji.py
 
-        self.stack = [
-            "AWS", "Kubernetes", "Docker", "Terraform",
-            "Jenkins", "Ansible", "Python", "Shell Scripting",
-            "TypeScript", "Maven", "Git"
-        ]
+  👤  Name        : Muthu Rajaji P
+  📍  Location    : Chennai, Tamil Nadu, India
+  🎓  Degree      : B.Tech – Information Technology (Anna University, 2012)
+  📧  Email       : muthurajaji2@gmail.com
 
-        self.currently_learning = [
-            "AWS CDK (advanced patterns)",
-            "GitOps & ArgoCD",
-            "Observability with OpenTelemetry"
-        ]
+  🛠️  Stack       : AWS · Kubernetes · Docker · Terraform
+                    Jenkins · Ansible · Python · Shell Scripting
+                    TypeScript · Maven · Git
 
-        self.fun_fact = "I've been automating deployments since before 'DevOps' was a job title 🚀"
+  📚  Learning    : AWS CDK Advanced Patterns
+                    GitOps & ArgoCD
+                    Observability with OpenTelemetry
 
-    def motto(self):
-        return "Automate everything. Break nothing. Ship fast. 🛠️"
+  ⚡  Fun Fact    : Automating deployments before "DevOps" was a job title 🚀
 
-me = MuthuRajaji()
-print(me.motto())
+  💬  Motto       : "Automate everything. Break nothing. Ship fast. 🛠️"
+
+>>> Process finished with exit code 0
 ```
 
 <br clear="right"/>
